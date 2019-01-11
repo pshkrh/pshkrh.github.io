@@ -31,6 +31,6 @@ There's always going to be someone smarter than you, and if you're stuck then lo
 
 This way, I think I'll be able to get past the "coding block" as I like to call it, and get better. Libraries like NumPy and Pandas are essential for Data Science and it's necessary that a workman know his tools well and how they work in order to make his final product good.
 
-That's all for now, the next post should be on my notes / analysis / update on the fast.ai course as I learn and do some mini projects of my own.
+That's all for now.
 
 Ciao!
