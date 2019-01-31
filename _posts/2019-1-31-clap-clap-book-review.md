@@ -7,7 +7,7 @@ comments: true
 
 A short review of the book - no spoilers (kind of)!
 
-#The Review# 
+#The Review
 
 My experience with Origin was a very strange one. I had actually pre-ordered the hardcover version from Amazon about 3 months before it released.
 
