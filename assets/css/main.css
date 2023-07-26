@@ -105,6 +105,15 @@ hr {
     .container {
         max-width: 83%
     }
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .actions {
+        display: flex;
+        justify-content: center;
+    }
 }
 
 .content ol {
