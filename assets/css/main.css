@@ -155,3 +155,14 @@ p .content .profile-picture {
     text-align: center;
     width: 100%
 }
+
+.actions li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 5px;
+    font-size: 1.5em;
+  }
+
+.navbar-ul li>a {
+color:inherit;
+}
