@@ -114,6 +114,19 @@ hr {
         display: flex;
         justify-content: center;
     }
+    .navbar-header {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (max-width:450px) {
+    #website-title {
+        font-size: 20px;
+    }
+    .logoimg {
+        width: 25px;
+    }
 }
 
 .content ol {
