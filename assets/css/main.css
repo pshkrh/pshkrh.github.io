@@ -123,10 +123,14 @@ hr {
 
 @media (max-width:450px) {
     #website-title {
-        font-size: 20px;
+        font-size: 28px;
     }
     .logoimg {
-        width: 25px;
+        width: 35px;
+    }
+    .navbar-header {
+        display: flex;
+        align-items: center;
     }
 }
 
